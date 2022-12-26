@@ -1,3 +1,5 @@
+# Daily Statistics of the 2022 Iran Protests
+
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2Fee3ed59182d37c0bc5fe26287a023607%2FBlue%20Zigzag%20Lines%20Store%20Header.png?generation=1672079658462253&alt=media)
 
 # DAY 101 (September 16, 2022 - December 25, 2022)
