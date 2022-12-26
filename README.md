@@ -27,7 +27,7 @@ All data are official estimates from the Human Rights Activists News Agency (HRA
 # Dataset History
 2022-12-25 - dataset is created (101 days after protests began).
 
-[GitHub Repository](https://github.com/justin-2028/Daily-Statistics-of-the-2022-Iran-Protests) - The same data but on GitHub.
+[Kaggle Dataset](https://github.com/justin-2028/Daily-Statistics-of-the-2022-Iran-Protests) - The same data but on Kaggle.
 
 # Code Starter
 Important: Each new record is accumulated data from previous days.
