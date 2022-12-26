@@ -32,6 +32,8 @@ All data are official estimates from the Human Rights Activists News Agency (HRA
 [Kaggle Dataset](https://github.com/justin-2028/Daily-Statistics-of-the-2022-Iran-Protests) - The same data but on Kaggle.
 
 # Code Starter
+Daily Data and Plot Example <br>
 Important: Each new record is accumulated data from previous days.<br>
-Daily Data and Plot Example<br>
-Acknowledgements: I took much inspiration with the formatting of my Kaggle dataset from Petro Ivaniuk's dataset about the [2022 Russia Ukraine War](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war), kudos to him!
+
+# Acknowledgements
+I took much inspiration with the formatting of my Kaggle dataset from Petro Ivaniuk's dataset about the [2022 Russia Ukraine War](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war), kudos to him!
