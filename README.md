@@ -2,7 +2,7 @@
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2Fee3ed59182d37c0bc5fe26287a023607%2FBlue%20Zigzag%20Lines%20Store%20Header.png?generation=1672079658462253&alt=media)
 
-## DAY 125 (September 16, 2022 - January 18, 2023)
+## DAY 126 (September 16, 2022 - January 19, 2023)
 This is a dataset that describes daily estimates of statistics regarding the 2022 Iran protests.
 
 All data are official estimates from the Human Rights Activists News Agency (HRANA) that have been compiled and structured by myself. However, there are many significant figures claimed by various media outlets that have not been taken into account by HRANA due to a lack of sufficient details, so the **ACTUAL NUMBERS** are **LIKELY TO BE HIGHER.**
