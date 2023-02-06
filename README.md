@@ -27,7 +27,7 @@ All data are official estimates from the Human Rights Activists News Agency (HRA
 - Number of Universities Involved
 
 ## Dataset History
-2022-12-25 - dataset is created (101 days after protests began).
+2022-12-25 - Dataset is created (101 days after protests began).
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/daily-statistics-of-the-2022-iran-protests) - The same data but on Kaggle.
 
